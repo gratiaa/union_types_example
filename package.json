@@ -24,6 +24,6 @@
     "apollo-engine": "^1.1.2",
     "webtask-tools": "^3.4.1",
     "launchpad-module": "^0.0.0",
-    "apollo-server-express": "^1.2.0"
+    "apollo-server-express": "^2.14.2"
   }
 }
